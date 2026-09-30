@@ -26,7 +26,7 @@
 <div align="center">
 
 <p>
-  Je m'appelle <strong>Solène B.B</strong>, je suis actuellement en troisième année chez Nexa Digital School à Lille, en recherche d'alternance dans le domaine de la cybersécurité.
+  Je m'appelle <strong>Solène Branly</strong>, je suis actuellement en troisième année chez Nexa Digital School à Lille, en recherche d'alternance dans le domaine de la cybersécurité.
 </p>
 
 <p>
@@ -117,7 +117,7 @@
 <br>
 
 <p>
-  <strong>Detechtive</strong> — Projet réalisé dans le cadre du passage de l'AIS (Administratrice d'Infrastructure Sécurisée). Ce projet m'a permis de mettre en pratique mes compétences en analyse de sécurité, détection de menaces et gestion d'infrastructures sécurisées.
+  <strong>Detechtive</strong> — Projet réalisé dans le cadre du passage de l'AIS (Administratrice d'Infrastructure Sécurisée - RNCP de niveau 6). Ce projet m'a permis de mettre en pratique mes compétences en analyse de sécurité, détection de menaces et gestion d'infrastructures sécurisées.
 </p>
 
 </div>
