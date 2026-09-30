@@ -9,7 +9,7 @@
 <img src="gitimage/6061fafaa362dc49490717457d4a96c6.jpg" width="100%" alt="Bannière de fin" />
 </div>
 
-<p align="center" style="font-size: 17px; color: #a98cb9; margin-top: 15px;">
+<p align="center" style="font-size: 17px; color: #a98cb9; margin-top: 30px;">
   Bonjour, voici le profil d'une étudiante en cybersécurité !
 </p>
 
