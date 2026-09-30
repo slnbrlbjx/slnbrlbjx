@@ -138,8 +138,8 @@
   <img src="https://img.shields.io/badge/Mail-C86BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D1B4E" alt="Mail" />
 </a>
 
-<a href="www.linkedin.com/in/solene-branlyb">
-  <img src="https://img.shields.io/badge/LinkedIn-C86BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D1B4E" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/solene-branlyb">
+  <img src="https://img.shields.io/badge/L-Linkedin-C86BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D1B4E" alt="LinkedIn" />
 </a>
 
 <a href="https://slnbrlbjx.github.io">
