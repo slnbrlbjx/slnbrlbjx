@@ -9,7 +9,7 @@
 <img src="gitimage/6061fafaa362dc49490717457d4a96c6.jpg" width="100%" alt="Bannière de fin" />
 </div>
 
-<p align="center" style="font-size: 17px; color: #806a8c; margin-top: 15px;">
+<p align="center" style="font-size: 17px; color: #a98cb9; margin-top: 15px;">
   Bonjour, voici le profil d'une étudiante en cybersécurité !
 </p>
 
@@ -19,7 +19,7 @@
 <!-- WHOAMI -->
 <!-- ═══════════════════════════════════════════ -->
 
-<hr width="60%" style="border: 1px solid #806a8c; margin: 20px auto;">
+<hr width="60%" style=" #806a8c; margin: 0px auto;">
 
 <h2 align="center">Qui suis-je ?</h2>
 
@@ -41,7 +41,7 @@
 <!-- STACK & OUTILS -->
 <!-- ═══════════════════════════════════════════ -->
 
-<hr width="60%" style="border: 1px solid #806a8c; margin: 20px auto;">
+<hr width="60%" style="border: #806a8c; margin: 0px auto;">
 
 <h2 align="center">Stack & Outils</h2>
 
@@ -57,7 +57,7 @@
 
 <br>
 
-<hr width="60%" height="40% style="border: 1px solid #806a8c; margin: 20px auto;">
+<hr width="60%" height="40%" style="#806a8c; margin: 0px auto;">
 
 ### Cybersécurité — Blue Team
 
@@ -67,7 +67,7 @@
 ![Suricata](https://img.shields.io/badge/Suricata-E34F26?style=flat-square&logo=suricata&logoColor=white)
 ![OSSEC](https://img.shields.io/badge/OSSEC-000000?style=flat-square&logo=ossec&logoColor=white)
 
-<hr width="60%" height="40% style="border: 1px solid #806a8c; margin: 20px auto;">
+<hr width="60%" height="40%" style="#806a8c; margin: 0px auto;">
 
 <br>
 
@@ -77,7 +77,7 @@
 ![Nmap](https://img.shields.io/badge/Nmap-007396?style=flat-square&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white)
 
-<hr width="60%" height="40% style="border: 1px solid #806a8c; margin: 20px auto;">
+<hr width="60%" height="40%" style=" #806a8c; margin: 0px auto;">
 
 <br>
 
@@ -86,7 +86,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-<hr width="60%" height="40% style="border: 1px solid #806a8c; margin: 20px auto;">
+<hr width="60%" height="40%" style=" #806a8c; margin: 0px auto;">
 <br>
 
 ### Outils & Workflow
@@ -104,7 +104,7 @@
 <!-- PROJETS PHARES -->
 <!-- ═══════════════════════════════════════════ -->
 
-<hr width="60%" style="border: 1px solid #806a8c; margin: 20px auto;">
+<hr width="60%" style="border: 1px solid #806a8c; margin: 0px auto;">
 
 <h2 align="center">Projets Phares</h2>
 
@@ -128,7 +128,7 @@
 <!-- CONTACTS -->
 <!-- ═══════════════════════════════════════════ -->
 
-<hr width="60%" style="border: 1px solid #806a8c; margin: 20px auto;">
+<hr width="60%" style="border: 1px solid #806a8c; margin: 0px auto;">
 
 <h2 align="center">Me Contacter</h2>
 
