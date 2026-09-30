@@ -9,9 +9,6 @@
 <img src="gitimage/6061fafaa362dc49490717457d4a96c6.jpg" width="100%" alt="Bannière de fin" />
 </div>
 
-<p align="center" style="font-size: 17px; color: #a98cb9; margin-top: 30px;">
-  Bonjour, voici le profil d'une étudiante en cybersécurité !
-</p>
 
 <br>
 
@@ -26,6 +23,7 @@
 <div align="center">
 
 <p>
+  Bonjour, voici le profil d'une étudiante en cybersécurité !
   Je m'appelle <strong>Solène Branly</strong>, je suis actuellement en troisième année chez Nexa Digital School à Lille, en recherche d'alternance dans le domaine de la cybersécurité.
 </p>
 
